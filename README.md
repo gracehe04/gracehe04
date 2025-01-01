@@ -8,7 +8,7 @@ I'm a junior at New York University studying Applied Psychology and Computer Sci
 - Implementing responsive product features as an intern @ Eulerity
 - Restructuring Popchew's E-Commerce website
 
-### 📫 Would love to connect! Here's how to reach me: ...
+### 📫 Would love to connect! Here's how to reach me...
 LinkedIn: https://www.linkedin.com/in/gracehe04/
 <br />Email: gh2313@nyu.edu
 
