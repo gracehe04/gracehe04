@@ -1,4 +1,17 @@
-## Hi there 👋
+### 👋 It's great to see you here!
+
+I'm a junior at New York University studying Applied Psychology and Computer Science. I enjoy creating functional web applications and I am passionate about continuously improving my skills!
+
+### 🌱 I’m currently working on ...
+
+- Building the Google Developers Group @ NYU's first Dev Team :)
+- Implementing responsive product features as an intern @ Eulerity
+- Restructuring Popchew's E-Commerce website
+
+### 📫 Would love to connect! Here's how to reach me: ...
+LinkedIn: https://www.linkedin.com/in/gracehe04/
+Email: gh2313@nyu.edu
+
 
 <!--
 **gracehe04/gracehe04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
