@@ -10,7 +10,7 @@ I'm a junior at New York University studying Applied Psychology and Computer Sci
 
 ### 📫 Would love to connect! Here's how to reach me: ...
 LinkedIn: https://www.linkedin.com/in/gracehe04/
-Email: gh2313@nyu.edu
+<br />Email: gh2313@nyu.edu
 
 
 <!--
