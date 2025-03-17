@@ -5,7 +5,6 @@ I'm a junior at New York University studying Applied Psychology and Computer Sci
 ### 🌱 I’m currently working on ...
 
 - Building the Google Developers Group @ NYU's first Dev Team :)
-- Implementing responsive product features as an intern @ Eulerity
 
 ### 📫 Would love to connect! Here's how to reach me...
 LinkedIn: https://www.linkedin.com/in/gracehe04/
