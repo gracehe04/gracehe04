@@ -1,6 +1,6 @@
 ### 👋 It's great to see you here!
 
-I'm a junior at New York University studying Applied Psychology and Computer Science. I enjoy creating functional web applications and I am passionate about continuously improving my skills!
+I'm an undergraduate studentg at New York University studying Applied Psychology and Computer Science. I enjoy creating functional web applications and I am passionate about continuously improving my skills!
 
 ### 🌱 I’m currently working on ...
 
