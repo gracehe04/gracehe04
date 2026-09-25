@@ -2,10 +2,6 @@
 
 I'm an undergraduate student at New York University studying Applied Psychology and Computer Science. I enjoy creating functional web applications and I am passionate about continuously improving my skills!
 
-### 🌱 I’m currently working on ...
-
-- Building the Google Developers Group @ NYU's first Dev Team :)
-
 ### 📫 Would love to connect! Here's how to reach me...
 LinkedIn: https://www.linkedin.com/in/gracehe04/
 <br />Email: gh2313@nyu.edu
